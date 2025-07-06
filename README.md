@@ -55,8 +55,8 @@ A sophisticated, production-ready monorepo built with Turborepo, combining multi
 
 ```bash
 # Clone the repository
-git clone https://github.com/Olabayoji/Starter-Monorepo-Turborepo-.git
-cd your-repo-name
+git clone https://github.com/git-buzzlightyear/Mono-Turbo-Starter.git
+cd Mono-Turbo-Starter
 # Install dependencies
 pnpm install
 ```
